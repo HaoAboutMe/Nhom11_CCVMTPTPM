@@ -14,3 +14,10 @@ document.getElementById("todo-form").addEventListener("submit", function (e) {
   input.value = "";
   renderTodos();
 });
+
+function toggleTodo(id) {
+  todos = todos.map(todo =>
+    todo.id === id ? { ...todo, completed: !todo.completed } : todo
+  );
+  renderTodos();
+}
