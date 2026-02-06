@@ -10,9 +10,9 @@ Simple frontend Todo List application using HTML, CSS and JavaScript.
 - Pull Request is required
 
 ## Thành viên tham gia
-- Nguyễn Lê Hoàn Hảo
-- Nguyễn Hoàng Minh Trí
-- Nguyễn Hùng Sơn
-- Woong Hồ Tuấn Nguyên
-- Đoàn Đức Long
-- Trần Nguyễn Gia Bảo
+- Nguyễn Lê Hoàn Hảo - HaoAboutMe
+- Nguyễn Hoàng Minh Trí - vaachu1993
+- Nguyễn Hùng Sơn - hungson1002
+- Woong Hồ Tuấn Nguyên - nguyenwoong20
+- Đoàn Đức Long - longdoan2k4
+- Trần Nguyễn Gia Bảo - baonon1234
